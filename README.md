@@ -66,27 +66,6 @@ I'm a **full-stack engineer** passionate about building **cloud-powered systems,
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-020617?style=flat" />
-</p>
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=intruder0007&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=intruder0007&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=intruder0007&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-020617?style=flat" />
-</p>
-
 ## 🚧 Currently Building
 
 - ⚙️ Cloud-first automation tools  
