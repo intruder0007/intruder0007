@@ -1,6 +1,6 @@
 <!-- Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Cloud+%26+Automation+Engineer;Building+AI-Driven+Systems;Node.js+%7C+React+%7C+Django+%7C+Azure+%7C+GCP" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Cloud+%26+Automation+Engineer;Building+AI-Driven+Systems;CO Founder+Traders Dex+Systems;Node.js+%7C+React+%7C+Django+%7C+Azure+%7C+GCP" alt="Typing SVG" />
 </p>
 
 <h1 align="center">👋 Hey, I'm <span style="color:#38BDF8;">Jlaj Jain</span> (Intruder)</h1>
