@@ -84,8 +84,6 @@ Execution → Results.”**
 ### 🛰️ **Network & Cyber Analysis Tools**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,py,raspberrypi" />
-  <img src="https://img.shields.io/badge/Wireshark-Blue?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-2E8B57?style=for-the-badge&logo=nmap&logoColor=white" />
 </p>
 
 ---
@@ -107,5 +105,5 @@ Execution → Results.”**
 
 # 🔥 **Signature**
 <p align="center">
-  <sub>Crafted with ⚡ speed, ☕ caffeine, and a bit of controlled chaos by <strong>Intruder (CCIO)</strong></sub>
+  <sub>Crafted with a bit of controlled chaos by <strong>Intruder (CCIO)</strong></sub>
 </p>
