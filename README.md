@@ -1,87 +1,128 @@
-<!-- Typing Header -->
+<!-- Animated Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Cloud+%26+Automation+Engineer;Building+AI-Driven+Systems;CoFounder+TradersDex;Node.js+%7C+React+%7C+Django+%7C+Azure+%7C+GCP" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Jlaj+Jain+(Intruder)+%7C+CCIO;Full-Stack+Developer+%7C+Cloud+Engineer;AI+Automation+%7C+Cyber+Defense+%7C+Co Founder+TradersDex+%7C+Network+Analysis;Building+Next-Gen+AI+%26+Cloud+Systems" alt="Typing Animation">
 </p>
 
-<h1 align="center">👋 Hey, I'm <span style="color:#38BDF8;">Jlaj Jain</span> (Intruder)</h1>
-<h3 align="center">Full-Stack Developer • Cloud Engineer • Automation Architect• CoFounder TradersDex</h3>
+<h1 align="center">⚡ Welcome to My Cyber Domain ⚡</h1>
+<h3 align="center">Full-Stack Engineer • Cloud & Automation Architect • CCIO (Cyber Crime Intervention Officer) • Network Analyst</h3>
 
 <br/>
 
 <!-- Social Badges -->
 <p align="center">
   <a href="https://jlajjain.framer.website/">
-    <img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=vercel&logoColor=38BDF8&labelColor=020617" />
+    <img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=vercel&logoColor=38BDF8" />
   </a>
   <a href="https://www.linkedin.com/in/jlajjain">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/jlajjain/">
-    <img src="https://img.shields.io/badge/Instagram-020617?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=020617" />
+    <img src="https://img.shields.io/badge/Instagram-020617?style=for-the-badge&logo=instagram&logoColor=E4405F" />
   </a>
-  <a href="https://discord.com/users/0">
-    <img src="https://img.shields.io/badge/Discord-wrintruder-020617?style=for-the-badge&logo=discord&logoColor=5865F2&labelColor=020617" />
+  <a>
+    <img src="https://img.shields.io/badge/Discord-wrintruder-020617?style=for-the-badge&logo=discord&logoColor=5865F2" />
   </a>
 </p>
 
+<br/>
+
+<!-- Divider -->
 <p align="center">
-  <img src="https://img.shields.io/badge/-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-020617?style=flat" />
+  <img src="https://img.shields.io/badge/-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-020617?style=flat" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 🧠 **About Me**
 
-I'm a **full-stack engineer** passionate about building **cloud-powered systems, SaaS products, automation tools, intelligent bots, dashboards, and next-gen AI workflows**.
+I am **Jlaj Jain**, also known as **Intruder** — a **Full-Stack Developer**, **Cloud Engineer**, **AI Automation Architect**, and **Certified CCIO (Cyber Crime Intervention Officer)**.
 
-- 🧠 Skilled in **Node.js, React, Django, Vite, Python**
-- 🗄️ Working with **MongoDB, Firebase, MySQL & modern NoSQL architectures**
-- ☁️ Deploying on **Microsoft Azure & Google Cloud**
-- 🐧 Linux power-user (Ubuntu / Debian / Kali / CentOS)
-- 🛠️ Love building **AI-driven automations, Discord bots, cloud pipelines**
-- 🌐 My Portfolio → **https://jlajjain.framer.website/**
+I specialize in building **AI-powered systems**, **secure cloud pipelines**, **real-time monitoring dashboards**, and **network-level automation tools**.  
+
+My work is focused on:
+
+- 🔹 **AI + Cloud Integrations**  
+- 🔹 **Cyber Defense & Network Analysis**  
+- 🔹 **Real-Time Automation Bots & Systems**  
+- 🔹 **Full-Stack Web Engineering**  
+- 🔹 **End-to-End Cloud Deployments (Azure & GCP)**  
+- 🔹 **SaaS Infrastructure & Scalable Architectures**  
+
+I believe in a single formula:
+
+> **“Consistency → Mastery  
+Execution → Results.”**
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-020617?style=flat" />
+  <img src="https://img.shields.io/badge/-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-020617?style=flat" />
 </p>
 
-## 🛠️ Tech Stack
+# 🛠️ **Tech Stack (Upgraded Futuristic Version)**
 
-### ⚡ Languages & Frameworks
+### ⚡ **Languages & Frameworks**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,vite,python,django,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,vite,python,django,fastapi,html,css" />
 </p>
 
-### 🗄️ Databases & Storage
+### 🧩 **Backend, APIs & System Design**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi,express,django" />
+</p>
+
+### 🗄️ **Databases & Storage**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgres" />
 </p>
 
-### ☁️ Cloud, DevOps & Tools
+### ☁️ **Cloud, DevOps & Security**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=azure,gcp,docker,linux,bash,git" />
 </p>
 
----
-
-## 🚧 Currently Building
-
-- ⚙️ Cloud-first automation tools  
-- 🤖 Advanced Discord bots (AI + control panels + APIs)  
-- 📡 Real-time monitoring dashboards  
-- 🛡️ AI-powered detection & protection systems  
-- 📦 Full-stack SaaS platforms  
+### 🛰️ **Network & Cyber Analysis Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,py,raspberrypi" />
+  <img src="https://img.shields.io/badge/Wireshark-Blue?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-2E8B57?style=for-the-badge&logo=nmap&logoColor=white" />
+</p>
 
 ---
-
-## 💬 Quote
-
-> “Consistency turns skills into mastery. Execution turns ideas into reality.”
-
-<br/>
 
 <p align="center">
-  <sub>Built with ⚡, ☕, and controlled chaos by <strong>Intruder (Jlaj Jain)</strong></sub>
+  <img src="https://img.shields.io/badge/-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-020617?style=flat" />
+</p>
+
+# 📊 **GitHub Intelligence Dashboard**
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=intruder0007&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=intruder0007&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=intruder0007&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-020617?style=flat" />
+</p>
+
+# 🚧 **What I’m Building (2025 & Beyond)**
+
+- 🤖 **AI-Driven Discord & Cloud Bots**  
+- 📡 **Network Activity Monitors & Cloud Security Tools**  
+- 🔥 **Real-Time Web Dashboards (React + Vite + Cloud)**  
+- 🛡️ **Cyber Defense Automations (AI-Enhanced)**  
+- 📦 **SaaS Platforms with Scalable Microservices**  
+- 🧠 **AI-Integrated Education & Automation Systems**  
+
+---
+
+# 🔥 **Signature**
+<p align="center">
+  <sub>Crafted with ⚡ speed, ☕ caffeine, and a bit of controlled chaos by <strong>Intruder (CCIO)</strong></sub>
 </p>
