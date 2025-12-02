@@ -37,7 +37,7 @@
 
 I am **Jlaj Jain**, also known as **Intruder** — a **Full-Stack Developer**, **Cloud Engineer**, **AI Automation Architect**, and **Certified CCIO (Cyber Crime Intervention Officer)**.
 
-I specialize in building **AI-powered systems**, **secure cloud pipelines**, **real-time monitoring dashboards**, and **network-level automation tools**.  
+I specialise in building **AI-powered systems**, **secure cloud pipelines**, **real-time monitoring dashboards**, and **network-level automation tools**.  
 
 My work is focused on:
 
@@ -93,19 +93,6 @@ Execution → Results.”**
 <p align="center">
   <img src="https://img.shields.io/badge/-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-020617?style=flat" />
 </p>
-
-# 📊 **GitHub Intelligence Dashboard**
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=intruder0007&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=intruder0007&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=intruder0007&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 <p align="center">
   <img src="https://img.shields.io/badge/-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-020617?style=flat" />
