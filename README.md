@@ -1,6 +1,6 @@
 <!-- Animated Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Jlaj+Jain+(Intruder)+%7C+CCIO;Full-Stack+Developer+%7C+Cloud+Engineer;AI+Automation+%7C+Cyber+Defense+%7C+Co Founder+TradersDex+%7C+Network+Analysis;Building+Next-Gen+AI+%26+Cloud+Systems" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Jlaj+Jain+(Intruder)+%7C+CCIO;Full-Stack+Developer+%7C+Cloud+Engineer;AI+Automation+%7C+Cyber+Defense+%7C+Network+Analysis;Building+Next-Gen+AI+%26+Cloud+Systems" alt="Typing Animation">
 </p>
 
 <h1 align="center">⚡ Welcome to My Cyber Domain ⚡</h1>
