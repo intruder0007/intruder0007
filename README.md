@@ -94,10 +94,6 @@ Execution → Results.”**
   <img src="https://img.shields.io/badge/-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-020617?style=flat" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-020617?style=flat" />
-</p>
-
 # 🚧 **What I’m Building (2025 & Beyond)**
 
 - 🤖 **AI-Driven Discord & Cloud Bots**  
