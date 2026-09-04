@@ -35,7 +35,7 @@ Full-Stack Engineer • Cloud Infrastructure Engineer • AI Systems Architect �
 <img src="https://img.shields.io/badge/-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-020617?style=flat"/>
 </p>
 
-# 🧠 About Me
+# About Me
 
 I'm **Jlaj Jain**, better known online as **Intruder**.
 
@@ -47,34 +47,34 @@ My current focus revolves around building developer-first infrastructure and clo
 
 ### Current Areas of Expertise
 
-- 🤖 AI Infrastructure & Automation
-- ☁️ Cloud Architecture
-- 🖥️ Backend Engineering
-- 🔐 Security Engineering
-- 🌐 Network Analysis
-- ⚡ Distributed Systems
-- 🧩 System Design
-- 📡 Infrastructure Automation
-- 🚀 SaaS Engineering
-- 🛠 Developer Platforms
+- AI Infrastructure & Automation
+- Cloud Architecture
+- Backend Engineering
+- Security Engineering
+- Network Analysis
+- Distributed Systems
+- System Design
+- Infrastructure Automation
+- SaaS Engineering
+- Developer Platforms
 
 ---
 
-## 🚀 Current Projects
+## Current Projects
 
-### 🪨 PebbleSpace
+### PebbleSpace
 
 A modern self-hosted Git platform focused on collaboration, automation, organizations, scalable infrastructure and developer experience.
 
 ---
 
-### 🪨 PebbleNest
+### PebbleNest
 
 A distributed version control system built from scratch with modern workflows, custom CLI tooling and optimized repository storage.
 
 ---
 
-### ☁️ Quantum Host
+### Quantum Host
 
 Cloud hosting infrastructure including
 
@@ -88,13 +88,13 @@ Cloud hosting infrastructure including
 
 ---
 
-### 🎵 Auralis
+### Auralis
 
 Cloud-native distributed audio infrastructure built with modern backend architecture, control planes, node orchestration and scalable networking.
 
 ---
 
-### 🤖 AI Infrastructure
+### AI Infrastructure
 
 Building AI powered
 
@@ -129,7 +129,7 @@ Building AI powered
 
 ---
 
-## ⚛️ Frontend
+## Frontend
 
 <p>
 
@@ -147,7 +147,7 @@ Also Experienced With
 
 ---
 
-## ⚙️ Backend & API Systems
+## Backend & API Systems
 
 <p>
 
@@ -176,7 +176,7 @@ Working With
 
 ---
 
-## 🗄 Databases & Storage
+## Databases & Storage
 
 <p>
 
@@ -197,7 +197,7 @@ Additional Experience
 
 ---
 
-## ☁️ Cloud, DevOps & Infrastructure
+## Cloud, DevOps & Infrastructure
 
 <p>
 
@@ -228,7 +228,7 @@ Infrastructure
 
 ---
 
-## 🔐 Security Engineering
+## Security Engineering
 
 <p>
 
@@ -256,7 +256,7 @@ Experience With
 
 ---
 
-## 🌐 Networking & Cyber Analysis
+## Networking & Cyber Analysis
 
 <p>
 
@@ -288,7 +288,7 @@ Working With
 
 ---
 
-## 🤖 AI & Automation
+## AI & Automation
 
 Working With
 
@@ -308,7 +308,7 @@ Working With
 <img src="https://img.shields.io/badge/-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-020617?style=flat"/>
 </p>
 
-# 📈 Current Interests
+# Current Interests
 
 - Distributed Systems
 - Cloud Native Infrastructure
@@ -326,21 +326,21 @@ Working With
 
 ---
 
-# 🎯 2026 Goals
+# 2026 Goals
 
-- 🚀 Ship PebbleSpace
-- 🚀 Ship PebbleNest
-- 🚀 Scale Quantum Host
-- 🚀 Build AI-first Infrastructure
-- 🚀 Learn Rust for infrastructure engineering
-- 🚀 Build production-grade distributed systems
-- 🚀 Contribute to Open Source
-- 🚀 Publish technical articles
-- 🚀 Expand cloud infrastructure knowledge
+- Ship PebbleSpace
+- Ship PebbleNest
+- Scale Quantum Host
+- Build AI-first Infrastructure
+- Learn Rust for infrastructure engineering
+- Build production-grade distributed systems
+- Contribute to Open Source
+- Publish technical articles
+- Expand cloud infrastructure knowledge
 
 ---
 
-# 🔥 Signature
+# Signature
 
 <p align="center">
 
